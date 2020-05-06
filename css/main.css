@@ -12,6 +12,10 @@ h3,h4{
     color: lightseagreen;
 }
 
+a img:hover{
+    border: 1px solid lightseagreen;
+}
+
 /* Index Page */
 .main_article{
     padding: 5% 2%;
