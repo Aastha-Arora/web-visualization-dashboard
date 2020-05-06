@@ -1,0 +1,50 @@
+body{
+    background-color: #E8E8E8;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#navbrand{
+    color:white;
+    background-color: lightseagreen;
+}
+
+h3,h4{
+    color: lightseagreen;
+}
+
+/* Index Page */
+.main_article{
+    padding: 5% 2%;
+}
+
+.side_visualization{
+    padding: 5% 2%;
+}
+
+.viz{
+    width: 45%;
+}
+
+.footer{
+    border-top: 4px solid LightSeaGreen;
+}
+
+#footnote{
+    text-align:center;
+    color:white;
+    font-size: 12px;
+    padding:10px;
+    margin: 0;
+
+}
+
+/* Data Page */
+td:first-child{
+    text-align: center;
+} 
+
+/* Comparison Page */
+h5{
+    color: lightseagreen;
+    text-align: center;
+}
