@@ -1,5 +1,5 @@
 ## Web Visualization Dashboard (Latitude)
-A static website was designed using HTML5, CSS3 and Bootstrap4 to create a dashboard to showcase the 
+A dashboard was designed using HTML5, CSS3 and Bootstrap4 to showcase the 
 [weather analysis visualizations.](https://github.com/Aastha-Arora/PythonAPI-challenge)
 
 **Website link:** (Hosted on GitHub Pages)
